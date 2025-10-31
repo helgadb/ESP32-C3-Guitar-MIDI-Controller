@@ -1,4 +1,4 @@
-# ESP32-Guitar-MIDI-Controller
+# ESP32-C3-Guitar-MIDI-Controller
 Code for ESP32-C3 SuperMini to turn it into a midi controller that sends midi commands via Bluetooth BLE and serial port (USB) compatible with linux ttymidi.
 Functions:
 - 9 push buttons (pull up) that send midi commands via the serial port (USB) and BLE when pressed (GPIO 0,1,2,3,5,6,7,9,10)
